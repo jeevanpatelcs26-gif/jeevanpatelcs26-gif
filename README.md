@@ -1,9 +1,14 @@
 💫 About Me:
 🔭 I’m currently working on to get better at coding
+
 👯 I’m looking to collaborate on google
+
 🤝 I’m looking for help with coders
+
 🌱 I’m currently learning cse at BMSCE
+
 💬 Ask me about my journey
+
 ⚡ Fun fact i am an strudent
 
 🌐 Socials:
