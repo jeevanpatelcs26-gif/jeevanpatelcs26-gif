@@ -1,16 +1,25 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on to get better at coding
+👯 I’m looking to collaborate on google
+🤝 I’m looking for help with coders
+🌱 I’m currently learning cse at BMSCE
+💬 Ask me about my journey
+⚡ Fun fact i am an strudent
 
-<!--
-**jeevanpatelcs26-gif/jeevanpatelcs26-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jeevan Patel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Jeevan Patel&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jeevan Patel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=Jeevan Patel&icon=0&color=0)
+
+💰 You can help me by Donating
+[BuyMeACoffee](https://buymeacoffee.com/Buy Me A Coffee)
